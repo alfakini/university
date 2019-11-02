@@ -9,8 +9,6 @@ Courses and training files
 
 ### Aula 1 (Processamento de Imagens Digitais) 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Hr2QRRWdBL1aasZrRGDBUkY9COw2O2Ae)
-
 1. Introdução
   - Conceitos básicos de uma imagem digital
     - Etapas do Processamento de Imagens Digitais
@@ -31,8 +29,6 @@ Courses and training files
     - Operações aritméticas
 
 ### Aula 2 (Processamento de Imagens Digitais) 
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uaY3c3AriwcMS8s4E4UTdkKlG2b3hiyI#scrollTo=ZIZBVHvWduhH)
 
 3. Transformações de intensidade e filtragem espacial
   - Algumas funções de transformação de intensidade básicas
