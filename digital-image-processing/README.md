@@ -1,6 +1,8 @@
 # Digital Image Processing
 
-## Aula 1 (Processamento de Imagens Digitais)
+## Fundamentos de Imagens Digitais
+
+[![Google Colab: Fundamentos de Imagens Digitais](https://img.shields.io/badge/colab-Fundamentos_de_Imagens_Digitais-blue.svg)](https://colab.research.google.com/github.com/magrathealabs/university/blob/master/digital-image-processing/class1_DIP_introduction.ipynb)
 
 1. Introdução
   - Conceitos básicos de uma imagem digital
@@ -21,7 +23,9 @@
   - Operações matemáticas básicas utilizadas
     - Operações aritméticas
 
-## Aula 2 (Processamento de Imagens Digitais)
+## Transformadas e Filtros
+
+[![Google Colab: Transformadas e Filtros](https://img.shields.io/badge/colab-Transformadas_e_Filtros-blue.svg)](https://colab.research.google.com/github.com/magrathealabs/university/blob/master/digital-image-processing/class2_DIP_filtering.ipynb)
 
 3. Transformações de intensidade e filtragem espacial
   - Algumas funções de transformação de intensidade básicas
