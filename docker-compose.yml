@@ -1,0 +1,10 @@
+version: '3'
+services:
+  jupyterlab:
+    build: ./
+    command: jupyter lab --ip=* --port=8888 --no-browser --notebook-dir=/app/notebooks
+    env_file: .env
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./:/app
