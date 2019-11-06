@@ -3,9 +3,6 @@
 ## Fundamentos de Imagens Digitais
 
 [![Google Colab: Fundamentos de Imagens Digitais](https://img.shields.io/badge/colab-Fundamentos_de_Imagens_Digitais-blue.svg)](https://colab.research.google.com/github/magrathealabs/university/blob/master/digital-image-processing/class1_DIP_introduction.ipynb)
-# custom
-digital-image-processing/images/
-
 
 1. Introdução
   - Conceitos básicos de uma imagem digital
