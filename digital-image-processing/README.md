@@ -44,3 +44,5 @@
   - Filtro passa-baixa (suavização)
   - Filtro passa-alta (nitidez)
   - Diferenças entre filtragem no domínio espacial e de frequência
+
+[![Google Colab: Conteúdo Extra](https://img.shields.io/badge/colab-Extra_Content-blue.svg)](https://colab.research.google.com/github/magrathealabs/university/blob/master/digital-image-processing/extra_content.ipynb)
