@@ -46,3 +46,10 @@
   - Diferenças entre filtragem no domínio espacial e de frequência
 
 [![Google Colab: Conteúdo Extra](https://img.shields.io/badge/colab-Extra_Content-blue.svg)](https://colab.research.google.com/github/magrathealabs/university/blob/master/digital-image-processing/extra_content.ipynb)
+
+## Aprendizado de Máquina com MNIST (Base de imagens com digitos escritos a mão)
+
+[![Google Colab: Aprendizado de Máquina](https://img.shields.io/badge/colab-Aprendizado_de_Máquina-blue.svg)](https://colab.research.google.com/github/magrathealabs/university/blob/master/digital-image-processing/class4_ml_classification_MNIST.ipynb)
+
+
+
