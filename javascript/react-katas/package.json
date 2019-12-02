@@ -1,0 +1,26 @@
+{
+  "name": "react-katas",
+  "version": "1.0.0",
+  "description": "React Katas",
+  "main": "index.js",
+  "repository": "git@github.com:magrathealabs/university.git",
+  "author": "Alan R. Fachini <alan@magrathealabs.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-test-renderer": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.4.1",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "jest": "^22.4.2",
+    "regenerator-runtime": "^0.11.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}

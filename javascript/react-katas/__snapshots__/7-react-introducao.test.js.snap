@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`React renderiza corretamente o componente gerado pela função createReceitas 1`] = `
+<section>
+  <h1>
+    Receitas
+  </h1>
+  <section>
+    <h1>
+      Tofu Assado
+    </h1>
+    <h2>
+      Ingredientes
+    </h2>
+    <ul
+      className="ingredientes"
+    >
+      <li>
+        1 Tofu
+      </li>
+      <li>
+        1 Copo de Noses
+      </li>
+      <li>
+        2 Copos Alface
+      </li>
+      <li>
+        1 Abóbora Amarela
+      </li>
+      <li>
+        1/2 Copo de Óleo de Oliva
+      </li>
+      <li>
+        3 Dentes de Alho
+      </li>
+    </ul>
+    <h2>
+      Preparo
+    </h2>
+    <ul
+      className="preparo"
+    >
+      <li>
+        Pré-aqueça o forno a 350 graus.
+      </li>
+      <li>
+        Espalhe o óleo de oliva em torno de uma vasilha de vidro.
+      </li>
+      <li>
+        Adicione o Tofu, o alho e as nooses ao prato.
+      </li>
+      <li>
+        Asse por 15 minutos.
+      </li>
+      <li>
+        Adicione a abóbora amarela e coloque-a no forno por 30 minutos.
+      </li>
+      <li>
+        Retire do forno e deixe esfriar por 15 minutos. Adicione a alface e sirva.
+      </li>
+    </ul>
+  </section>
+  <section>
+    <h1>
+      Chocolate quente
+    </h1>
+    <h2>
+      Ingredientes
+    </h2>
+    <ul
+      className="ingredientes"
+    >
+      <li>
+        2 colheres de sopa de abóbora (cozinhada a vapor)
+      </li>
+      <li>
+        1/2 colher de chá de mistura de especiarias (cardamomo, canela, noz moscada, pimenta preta)
+      </li>
+      <li>
+        1 tâmara medjool
+      </li>
+      <li>
+        2 colheres de sopa de essência de baunilha ou vagem de baunilha
+      </li>
+      <li>
+        2 +1/2 chávenas de bebida vegetal de avelã
+      </li>
+      <li>
+        1 colher de cacau em pó
+      </li>
+      <li>
+        Chantili vegan para servir
+      </li>
+    </ul>
+    <h2>
+      Preparo
+    </h2>
+    <ul
+      className="preparo"
+    >
+      <li>
+        Num tacho pequeno cozinhar a abóbora com as especiarias, cerca de dois minutos mexendo sempre.
+      </li>
+      <li>
+        Picar a tâmara e adicionar à abóbora.
+      </li>
+      <li>
+        Juntar a baunilha em vagem ou essência e continuar a mexer.
+      </li>
+      <li>
+        Adicionar a bebida vegetal à abóbora e continuar a mexer, sem deixar aquecer.
+      </li>
+      <li>
+        Colocar a mistura num liquidificador e bater até ficar bem liquido. (Se utilizares vagem de baunilha, retira antes de liquidificar)
+      </li>
+      <li>
+        Aquecer 1/2 chávena de bebida vegetal e adicionar o chocolate
+      </li>
+      <li>
+        Juntar com a abóbora e mexer
+      </li>
+      <li>
+        Decorar com chantili ou marshmallows vegan.
+      </li>
+    </ul>
+  </section>
+</section>
+`;
