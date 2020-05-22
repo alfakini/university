@@ -1,0 +1,13 @@
+name: music-theory
+version: 0.1.0
+
+authors:
+  - Thaynã Moretti <moretty@gmail.com>
+
+targets:
+  music-theory:
+    main: src/music-theory.cr
+
+crystal: 0.29.0
+
+license: MIT
