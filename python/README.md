@@ -9,8 +9,6 @@ Notebooks usados para os workshops de programação Python.
 
 ## Orientação a Objetos em Python
 
-**Orientação a Objetos**
-
 [![Google Colab](https://img.shields.io/badge/launch-Orientação_Objetos-blue.svg)](https://colab.research.google.com/github/magrathealabs/university/blob/master/python/orientacao-a-objetos/orientacao-a-objetos.ipynb)
 [![Google Colab](https://img.shields.io/badge/launch-Exercicios-orange.svg)](https://colab.research.google.com/github/magrathealabs/university/blob/master/python/orientacao-a-objetos/exercicios.ipynb)
 
