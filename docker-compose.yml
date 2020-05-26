@@ -1,10 +1,11 @@
 version: '3'
 services:
-  jupyterlab:
-    build: ./
-    command: jupyter lab --ip=* --port=8888 --no-browser --notebook-dir=/app/notebooks
-    env_file: .env
+  lab:
+    image: jupyter/minimal-notebook
+    volumes:
+     - ./:/notebooks
     ports:
       - "8888:8888"
-    volumes:
-      - ./:/app
+    environment:
+      - JUPYTER_ENABLE_LAB=1
+    command: start-notebook.sh --NotebookApp.notebook_dir=/notebooks
