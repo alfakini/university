@@ -2,6 +2,21 @@
 
 Notebooks usados para os workshops de programação Python.
 
+## Executar
+
+Para instalar localmente:
+
+```sh
+pip install -r requirements.txt
+jupyter lab
+```
+
+ou usando Docker:
+
+```sh
+docker-compose up
+```
+
 ## Introdução ao Python
 
 [![Google Colab: Introdução ao Python](https://img.shields.io/badge/colab-Introdução_ao_Python-blue.svg)](https://colab.research.google.com/github/magrathealabs/university/blob/master/python/introducao.ipynb)
