@@ -1,5 +1,11 @@
 # Digital Image Processing
 
+## Executar
+
+```sh
+docker-compose up
+```
+
 ## Fundamentos de Imagens Digitais
 
 [![Google Colab: Fundamentos de Imagens Digitais](https://img.shields.io/badge/colab-Fundamentos_de_Imagens_Digitais-blue.svg)](https://colab.research.google.com/github/magrathealabs/university/blob/master/digital-image-processing/class1_DIP_introduction.ipynb)
@@ -50,6 +56,3 @@
 ## Aprendizado de Máquina com MNIST (Base de imagens com digitos escritos a mão)
 
 [![Google Colab: Aprendizado de Máquina](https://img.shields.io/badge/colab-Aprendizado_de_Máquina-blue.svg)](https://colab.research.google.com/github/magrathealabs/university/blob/master/digital-image-processing/class4_ml_classification_MNIST.ipynb)
-
-
-
